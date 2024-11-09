@@ -1,11 +1,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript       6 hrs 59 mins   ████████████████▒░░░░░░░░   65.58 %
-Astro            2 hrs 55 mins   ███████░░░░░░░░░░░░░░░░░░   27.38 %
-PHP              31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
-SSH Config       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
-JavaScript       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+TypeScript       4 hrs 27 mins   █████████████▓░░░░░░░░░░░   54.40 %
+Astro            3 hrs 19 mins   ██████████░░░░░░░░░░░░░░░   40.49 %
+SSH Config       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
+JavaScript       7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+TSConfig         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
 ```
 
 <!--END_SECTION:waka-->
